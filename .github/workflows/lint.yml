@@ -36,4 +36,4 @@ jobs:
           VALIDATE_YAML: true
           VALIDATE_MARKDOWN: true
           VALIDATE_BASH: true
-EOF
+
